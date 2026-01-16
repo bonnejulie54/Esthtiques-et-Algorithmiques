@@ -3,4 +3,4 @@ PRÉSENTATION
 En essayant de coder cela, j’ai finalement créé le projet que je vous présente aujourd’hui. À première vue, il ressemble à un nuage de points formant le mot “RÉPÉTITION”, mais lorsqu’on zoome, on se rend compte que ces points ne sont pas de simples points, mais les lettres qui composent le mot “RÉPÉTITION”.
 
 EXÉCUTER LE PROJET 
-
+Télécharger le dossier free et ouvrir dans le navigateur le fichier index.html
